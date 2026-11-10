@@ -37,10 +37,6 @@ This GitHub organisation hosts open code and teaching materials from DSxHE sessi
 - 🙋 [Volunteer](https://www.datascienceforhealthequity.com/volunteer) · [Partner with us](https://www.datascienceforhealthequity.com/partner-with-us)
 - [LinkedIn](https://www.linkedin.com/company/data-science-for-health-equity/) · [Twitter / X](https://twitter.com/DS_x_HE)
 
-## Supported by
-
-Core funding from the [Alan Turing Institute](https://www.turing.ac.uk/) and others. Community partners include UCL Statistical Science and the Alan Turing Institute (Statistical Methods theme) and EDIS (strategic media partner). See [all partners](https://www.datascienceforhealthequity.com/partners).
-
 ## Contact
 
 [info@datascienceforhealthequity.com](mailto:info@datascienceforhealthequity.com) · [Code of Conduct](https://www.datascienceforhealthequity.com/code-of-conduct)
