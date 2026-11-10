@@ -25,6 +25,7 @@ This GitHub organisation hosts open code and teaching materials from DSxHE sessi
 
 | Repository | What it is |
 |---|---|
+| [hte-tutorial](https://github.com/Data-Science-for-Health-Equity/hte-tutorial) | R notebook and slides for the DSxHE Data Diversity × Statistical Methods tutorial *What Works for Whom: Assessing Heterogeneous Treatment Effects* (Carly Brantner, Sept 2026), runnable in Google Colab |
 | [dcea-workshop](https://github.com/Data-Science-for-Health-Equity/dcea-workshop) | Hands-on R notebook for the DSxHE × Cancer Research UK tutorial on distributional cost-effectiveness analysis (DCEA), runnable in Google Colab |
 
 ## Get involved
